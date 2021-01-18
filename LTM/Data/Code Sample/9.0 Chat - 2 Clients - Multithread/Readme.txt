@@ -1,0 +1,3 @@
+- Dinh kem la vi du chat giua 2 client su dung mutithread. 
+- Vi du nay viet cho bai tap 9.2 nhung chua hoan chinh, con cac loi ve kiem tra du 2 client ket noi, gui thong bao khi 1 client thoat.
+- SV tham khao vi du nay de hoan tat bai 9.2 va bai tap tuan 10

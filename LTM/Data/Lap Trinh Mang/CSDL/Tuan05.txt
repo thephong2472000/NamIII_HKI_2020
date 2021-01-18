@@ -1,0 +1,14 @@
+-------------- Tuần 05 --------------
+
+1.API: XML, test, Json
+2. HTML parser: jsoup, OKIHTTP
+
+Start:
+https://masothue.vn/Ajax/Search
+method: post
+	q	cmd
+	type	auto(tìm tất cả)
+Cách sử dụng JSup
+	
+Gson -> thao tác Json // Cách sử dụng Gson
+thongtindaotao.sgu.edu.vn // 3116330014

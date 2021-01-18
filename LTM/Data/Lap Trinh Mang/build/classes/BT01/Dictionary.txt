@@ -1,0 +1,8 @@
+hello;xin chào
+bye;tạm biệt
+dog;con chó
+cat;con mèo
+love;yêu
+like;thích
+name;tên
+you;bạn
